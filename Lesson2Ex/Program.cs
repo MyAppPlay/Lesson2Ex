@@ -9,7 +9,7 @@ namespace Lesson2Ex
     class Program
     {
         static void Main(string[] args)
-        {                             //Гаврилов Владимир
+        {                             // Гаврилов Владимир
             #region Ex1
             ////Написать метод, возвращающий минимальное из трёх чисел.
             //Console.WriteLine("Введите поочередно три разных целых числа");
